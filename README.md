@@ -19,7 +19,7 @@ I am **ChandraPrakash Darji** in the 1st year of Computer Science Degree from [I
 <h2 align="center">Connect Me at</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Chandra%20Prakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandra-prakash-6065b2224/)](https://www.linkedin.com/in/chandra-prakash-6065b2224/)
-[![Gmail Badge](https://img.shields.io/badge/-kaiwalyakoparkar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:prakashchandra3786@gmail.comm)](mailto:prakashchandra3786@gmail.comm)
+[![Gmail Badge](https://img.shields.io/badge/-prakashchandra37863786@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailto:prakashchandra3786@gmail.comm)](mailto:prakashchandra3786@gmail.comm)
 
 
 <h2 align="center">My Activity</h2>
