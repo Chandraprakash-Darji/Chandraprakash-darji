@@ -1,5 +1,6 @@
 # ChandrPrakash Darji Welcoming you  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
+![20220210_181515_0000](https://user-images.githubusercontent.com/93640141/154883570-4886fb9e-8a31-4eae-bd99-5f4b70d9c44b.png)
 
 I am **ChandraPrakash Darji** in the 1st year of Computer Science Degree from [ITM SLS Baroda](https://www.itmbu.ac.in/).  Currently I am focused on Web development. Want to explore many feild like blockChain, Machine Learning etc.
 
