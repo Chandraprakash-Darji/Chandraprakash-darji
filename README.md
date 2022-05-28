@@ -2,7 +2,7 @@
 
 ![20220210_181515_0000](https://user-images.githubusercontent.com/93640141/154883570-4886fb9e-8a31-4eae-bd99-5f4b70d9c44b.png)
 
-I am **ChandraPrakash Darji** in the 1st year of Computer Science Degree from [ITM SLS Baroda](https://www.itmbu.ac.in/).  Currently I am focused on Web development. Want to explore many feild like blockChain, Machine Learning etc.
+I am **ChandraPrakash Darji** in the 1st year of Computer Science Degree from [ITM SLS Baroda](https://www.itmbu.ac.in/).  Currently I am focused on Web development. Want to explore many field like blockChain, Machine Learning etc.
 
 <h2 align="center">Languages and Tools</h2>
 
