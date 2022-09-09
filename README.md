@@ -6,17 +6,17 @@ I am **ChandraPrakash Darji** in the 1st year of Computer Science Degree from [I
 
 <p align="left"> <a href="https://twitter.com/chandra_7852" target="blank"><img src="https://img.shields.io/twitter/follow/chandra_7852?logo=twitter&style=for-the-badge" alt="chandra_7852" /></a> </p>
 
-- 🔭 I’m currently working on [Personal Portfolio](https://chandraprakash.vecel.app)
+- 🔭 I’m currently working on [College CMS](https://github.com/ax-studios)
 
 - 🌱 I’m currently learning **Next.JS, mastering javscript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Chandraprakash-Darji/personal-portoflio](https://github.com/Chandraprakash-Darji/personal-portoflio)
+- 👨‍💻 All of my projects are available at [Portfolio]([https://github.com/Chandraprakash-Darji/personal-portoflio](https://chandraprakash.vercel.app/))
 
 - 💬 Ask me about **react, js to increase mine and ours knowledge.**
 
-- 📫 How to reach me **prakashchandra3786@gmail.com**
+- 📫 How to reach me [prakashchandra3786@gmail.com](mailto:prakashchandra3786@gmail.com)
 
-- 📄 Know about my experiences [https://github.com/Chandraprakash-Darji/personal-portoflio](https://github.com/Chandraprakash-Darji/personal-portoflio)
+- 📄 Connect me at [LinkedIn](https://www.linkedin.com/in/chandra-prakash-6065b2224/)
 
 - ⚡ Fun fact **Everyone thinks I am not smart enough.**
 
