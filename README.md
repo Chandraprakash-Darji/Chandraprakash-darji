@@ -10,7 +10,7 @@ I am **ChandraPrakash Darji** in the 1st year of Computer Science Degree from [I
 
 - 🌱 I’m currently learning **Next.JS, mastering javscript**
 
-- 👨‍💻 All of my projects are available at [Portfolio]([https://github.com/Chandraprakash-Darji/personal-portoflio](https://chandraprakash.vercel.app/))
+- 👨‍💻 All of my projects are available at [Portfolio](https://chandraprakash.vercel.app/)
 
 - 💬 Ask me about **react, js to increase mine and ours knowledge.**
 
