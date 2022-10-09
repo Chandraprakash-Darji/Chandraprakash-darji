@@ -16,14 +16,14 @@ I am **ChandraPrakash Darji** in the 1st year of Computer Science Degree from [I
 
 - 📫 How to reach me [prakashchandra3786@gmail.com](mailto:prakashchandra3786@gmail.com)
 
-- 📄 Connect me at [LinkedIn](https://www.linkedin.com/in/chandra-prakash-6065b2224/)
+- 📄 Connect me at [LinkedIn](https://www.linkedin.com/in/Chandraprakash-Darji/)
 
 - ⚡ Fun fact **Everyone thinks I am not smart enough.**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/chandra_7852" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandra_7852" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chandra-prakash-6065b2224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandra-prakash-6065b2224" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/Chandraprakash-Darji/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandra-prakash-6065b2224" height="30" width="40" /></a>
 <a href="https://instagram.com/chandraprakash_7852" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandraprakash_7852" height="30" width="40" /></a>
 </p>
 
