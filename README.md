@@ -6,7 +6,7 @@ I am **ChandraPrakash Darji** in the 1st year of Computer Science Degree from [I
 
 <p align="left"> <a href="https://twitter.com/chandra_7852" target="blank"><img src="https://img.shields.io/twitter/follow/chandra_7852?logo=twitter&style=for-the-badge" alt="chandra_7852" /></a> </p>
 
-- 🔭 I’m currently working on [College CMS](https://github.com/ax-studios)
+- 🔭 I’m currently working on [College LMS](https://github.com/ax-studios)
 
 - 🌱 I’m currently learning **Next.JS, mastering javscript**
 
