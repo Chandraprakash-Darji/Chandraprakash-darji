@@ -4,7 +4,7 @@
 
 I am **ChandraPrakash Darji** in the 1st year of Computer Science Degree from [ITM SLS Baroda](https://www.itmbu.ac.in/).  Currently I am focused on Web development. Want to explore many field like blockChain, Machine Learning etc.
 
-<p align="left"> <a href="https://twitter.com/chandra_7852" target="blank"><img src="https://img.shields.io/twitter/follow/chandra_7852?logo=twitter&style=for-the-badge" alt="chandra_7852" /></a> </p>
+<p align="center"> <a href="https://twitter.com/chandra_7852" target="blank"><img src="https://img.shields.io/twitter/follow/chandra_7852?logo=twitter&style=for-the-badge" alt="chandra_7852" /></a> <img src="https://komarev.com/ghpvc/?username=Chandraprakash-Darji&color=0e75b6" alt="chandra_7852" />  </p>
 
 - 🔭 I’m currently working on [College LMS](https://github.com/ax-studios)
 
