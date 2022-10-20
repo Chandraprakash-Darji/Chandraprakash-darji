@@ -42,3 +42,7 @@ I am **ChandraPrakash Darji** in the 1st year of Computer Science Degree from [I
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chandraprakash-darji&show_icons=true&theme=react" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chandraprakash-darji&theme=react" />
 </p>
+
+<h2>Badges</h2>
+
+[![@chandra7852's Holopin board](https://holopin.me/chandra7852)](https://holopin.io/@chandra7852)
