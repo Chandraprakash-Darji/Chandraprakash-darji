@@ -39,7 +39,7 @@ I am **ChandraPrakash Darji** in the 1st year of Computer Science Degree from [I
 
 <h2>Stats</h2>
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=Chandraprakash-Darji" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/wakatime?username=ChandraprakashDarji" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Chandraprakash-darji&show_icons=true&theme=darcula" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chandraprakash-darji&theme=darcula" />
 </p>
