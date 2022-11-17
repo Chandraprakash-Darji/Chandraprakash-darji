@@ -41,6 +41,11 @@ I am **ChandraPrakash Darji** in the 1st year of Computer Science Degree from [I
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ChandraprakashDarji&theme=react&title_color=fa8c01" />
   <img  src="https://github-readme-stats.vercel.app/api?username=Chandraprakash-darji&show_icons=true&theme=react&icon_color=85638f&title_color=fa8c01" />
   <img src="https://streak-stats.demolab.com?user=Chandraprakash-Darji&theme=react&ring=FA8C01&fire=FA8C01&currStreakNum=FA8C01&sideNums=85638F&currStreakLabel=FA8C01&sideLabels=85638F" />
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h2>Badges</h2>
 
 [![@chandra7852's Holopin board](https://holopin.me/chandra7852)](https://holopin.io/@chandra7852)
