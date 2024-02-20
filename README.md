@@ -1,3 +1,5 @@
+# Hey 👋, I am Chandra
+
 ![twitter banner](https://github.com/Chandraprakash-Darji/Chandraprakash-darji/assets/93640141/42c28175-73f1-4a8c-a096-05c35cf707b0)
 
 <p align='center'>Full-stack dev by day, story weaver by night. Building elegant solutions with Next.js, Prisma, & more.</p>
